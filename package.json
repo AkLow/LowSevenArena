@@ -12,6 +12,8 @@
     "vite": "^8.1.1"
   },
   "dependencies": {
-    "phaser": "^4.2.1"
+    "phaser": "^4.2.1",
+    "tiktok-live-connector": "^2.4.2",
+    "ws": "^8.21.1"
   }
 }
